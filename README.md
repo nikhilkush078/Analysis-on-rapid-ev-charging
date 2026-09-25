@@ -186,7 +186,7 @@ Click the thumbnail to watch the YouTube presentation:
 
 [![Solution of Rapid EV Charging](https://img.youtube.com/vi/jC6XEAotdIo/maxresdefault.jpg)](https://youtu.be/jC6XEAotdIo)
 
-**▶ Watch on YouTube:** https://youtu.be/YOUR_SOLUTION_VIDEO_ID
+**▶ Watch on YouTube:** https://youtu.be/jC6XEAotdIo
 
 ---
 
